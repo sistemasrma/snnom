@@ -1,4 +1,4 @@
-**----------------------------------
+** otro omentario   ----------------------------------
 **NOMBRE: rpresta.prg
 **OBJETIVO: MUESTRA TABLA DE PAGOS en version imprimible. EN CASO DE REQUERIRSE GUARDA LA SOLICITUD Y LE ASIGNA FOLIO.
 **ALCANCE:

@@ -1,4 +1,4 @@
-**----------------------------------
+**   se agrega un comentario inicial----------------------------------
 **NOMBRE: prestamo.prg
 **OBJETIVO: Menu de Recursos Humanos
 **ALCANCE:
@@ -723,3 +723,11 @@ RETURN .T.
 
 ///comentarios
 
+
+///comentarios
+
+///comentarios
+
+///comentarios
+
+///comentarios
